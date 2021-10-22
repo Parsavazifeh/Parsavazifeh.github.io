@@ -9,8 +9,7 @@ comments: false
 ---
 
 
-* [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
-* [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
+* [My Favorite Application](https://www.youtube.com/)
+* [Type training website](https://edclub.com)
+* [The university of IUST](http://www.iust.ac.ir/en.com)
 

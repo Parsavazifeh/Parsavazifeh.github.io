@@ -8,10 +8,18 @@ modified: 4-10-2019
 comments: true
 ---
 
-### همکلاسی‌ها
-* علی حسینی
-* بهداد محمدی
-* حسن داریان
+### my college friends
+* [Erfan kalandi](http://erfan-kalandi.github.io)
+* [Pourya karami](http://pourya22334415.github.io)
+
+### my best friends
+* [Pourya pornovin](https://www.instagram.com/pourya.pe/)
+* [Alireza mohamadzadeh](https://www.instagram.com/alireza.remoza/)
+* [Saeed asgarzadeh](https://www.instagram.com/saeed.a1382/)
+* [Mohamad mahdi mohamadi](https://www.instagram.com/themahdi04/)
+* [Mahdi Tarzami](https://www.instagram.com/tf_mahdi/)
+* [Erfan dehgan](https://www.instagram.com/erfnden/)
+* [Pourya shakerkhatibi](https://www.instagram.com/x_poyrazzz/) 
 
 
 

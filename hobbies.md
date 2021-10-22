@@ -9,6 +9,8 @@ comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* [Watching youtube](https://www.youtube.com/)
+* [Typing](https://edclub.com)
+* [Playing games](https://www.pubg.com)
 
 
