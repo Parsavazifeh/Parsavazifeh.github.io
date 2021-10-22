@@ -13,8 +13,8 @@ gallery:
     title: "Best brand in mobile"
   - url: /assets/images/2.jpg
     image_path: /assets/images/2.jpg
-    alt: "Favorite Topic"
-    title: "Image 2 title caption"
+    alt: "placeholder image 2"
+    title: "Favorite Topic"
   - url: /assets/images/3.jpg
     image_path: /assets/images/3.jpg
     alt: "placeholder image 3"
