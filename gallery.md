@@ -17,15 +17,15 @@ gallery:
     title: "My Favorite Topic"
   - url: /assets/images/3.jpg
     image_path: /assets/images/3.jpg
-    alt: "placeholder image 4"
-    title: "W T C"
+    alt: "placeholder image 3"
+    title: "image 3 title caption"
   - url: /assets/images/4.jpg
     image_path: /assets/images/4.jpg
-    alt: "placeholder image 5"
+    alt: "placeholder image 4"
     title: "My University"
   - url: /assets/images/5.jpg
     image_path: /assets/images/5.jpg
-    alt: "placeholder image 6"
+    alt: "placeholder image 5"
     title: "my dream car"
 ---
 
