@@ -14,11 +14,11 @@ gallery:
   - url: /assets/images/2.jpg
     image_path: /assets/images/2.jpg
     alt: "placeholder image 2"
-    title: "Favorite Topic"
+    title: "My Favorite Topic"
   - url: /assets/images/3.jpg
     image_path: /assets/images/3.jpg
     alt: "placeholder image 3"
-    title: "My laptop"  
+    title: "WTC"  
   - url: /assets/images/4.jpg
     image_path: /assets/images/4.jpg
     alt: "placeholder image 4"

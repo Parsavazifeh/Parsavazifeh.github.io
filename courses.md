@@ -4,21 +4,23 @@ author_profile: true
 permalink: /courses/
 title: Courses
 tags: [Studying, courses]
-modified: 9-14-2019
+modified: 24-10-2021
 comments: false
 ---
 
 
 |           | **Current**                    |
 |----|------|--------------------------------|
-|2021|Fall  | **<a href="">Computer Programming Fundamentals</a>**         |
+|1400|Fall  | **<a href="">Computer Programming Fundamentals</a>**         |
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="/ds98/">Data Structures</a>** |
+|1400|Fall  | **<a href="/ds98/">Computer Lab</a>** |
 |----|------|--------------------------------|
-|2019|Fall  | **<a href="">Computer Lab</a>** |
+|1400|Fall  | **<a href="">physics</a>** |
+|----|------|---------------------------------|
+|1400|Fall  | **<a href="">[Math](https://en.m.wikipedia.org)</a>** |
 
 
-|           | **Past**                       |
+<!-- |           | **Past**                       |
 |----|------|--------------------------------|
 |2019|Spring| **<a href="/ad97/">Algorithm Design</a>**         |
 |----|------|--------------------------------|
@@ -34,4 +36,4 @@ comments: false
 |----|------|--------------------------------------------|
 |2018|Spring| **Advanced Programming - C#**             |
 |----|------|--------------------------------------------|
-|2018|Spring| **Natural Language Processing (Undergraduate)** |
+|2018|Spring| **Natural Language Processing (Undergraduate)** | -->
