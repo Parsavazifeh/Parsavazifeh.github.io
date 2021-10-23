@@ -18,15 +18,15 @@ gallery:
   - url: /assets/images/3.jpg
     image_path: /assets/images/3.jpg
     alt: "placeholder image 3"
-    title: "WTC"  
+    title: "W T C"
   - url: /assets/images/4.jpg
     image_path: /assets/images/4.jpg
     alt: "placeholder image 4"
-    title: "My university"
+    title: "My University"
   - url: /assets/images/5.jpg
     image_path: /assets/images/5.jpg
     alt: "placeholder image 5"
-    title: "My favorite car"
+    title: "my dream car"
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
