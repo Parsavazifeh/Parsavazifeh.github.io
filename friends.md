@@ -19,9 +19,7 @@ comments: true
 * [Pourya pornovin](https://www.instagram.com/pourya.pe/)
 * [Saeed asgarzadeh](https://www.instagram.com/saeed.a1382/)
 * [Mohamad mahdi mohamadi](https://www.instagram.com/themahdi04/)
-* [Mahdi Tarzami](https://www.instagram.com/tf_mahdi/)
-* [Erfan dehgan](https://www.instagram.com/erfnden/)
-* [Pourya shakerkhatibi](https://www.instagram.com/x_poyrazzz/) 
+* [Mahdi Tarzami](https://www.instagram.com/tf_mahdi/) 
 
 
 

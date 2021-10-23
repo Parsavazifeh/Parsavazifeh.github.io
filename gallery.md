@@ -4,7 +4,7 @@ author_profile: true
 permalink: /gallery/
 title: Gallery
 tags: [gallery]
-modified: 9-14-2019
+modified: 23-10-2021
 comments: false
 gallery:
   - url: /assets/images/1.jpg
@@ -27,10 +27,6 @@ gallery:
     image_path: /assets/images/5.jpg
     alt: "placeholder image 5"
     title: "My favorite car"
-  - url: /assets/images/6.jpg
-    image_path: /assets/images/6.jpg
-    alt: "placeholder image 6"
-    title: "My favorite car"    
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
