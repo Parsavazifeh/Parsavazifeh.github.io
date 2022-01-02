@@ -15,8 +15,8 @@ gallery:
     image_path: /assets/images/2.jpg
     alt: "placeholder image 2"
     title: "My Favorite Topic"
-  - url: /assets/images/6.jpg
-    image_path: /assets/images/6.jpg
+  - url: /assets/images/3.jpg
+    image_path: /assets/images/3.jpg
     alt: "placeholder image 3"
     title: "image 3 title caption"
   - url: /assets/images/4.jpg
